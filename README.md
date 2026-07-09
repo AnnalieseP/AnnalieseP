@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    📍 Based in <b>Seattle, WA</b>&nbsp;&nbsp;|&nbsp;&nbsp;🎓 <b>B.S. in Business Management</b>
+    📍 Based in <b >Seattle, WA</b>&nbsp;&nbsp;|&nbsp;&nbsp;🎓 <b>B.S. in Business Management</b>
   </p>
 
   <hr style="border: 1px solid #E5D3B3;">
@@ -20,24 +20,32 @@
 
   <br>
 
-  <!-- Modern Geometric Skill Grid -->
+  <!-- Modern Square Icon Skill Grid -->
   <h3>⚡ DESIGN & AI TOOLKIT</h3>
 
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <p><b>✨ Core UI & Experience</b></p>
-        <code>Figma</code> • <code>Uizard</code> • <code>Wix</code> • <code>Canva</code>
-        <br><br> 
-        <p><b>🎨 Adobe Creative Suite</b></p>
-        <code>Photoshop</code> • <code>Illustrator</code> • <code>Firefly</code> • <code>Express</code>
-      </td>
-      <td valign="top" width="50%">
-        <p><b>🧠 Systems & AI Copilots</b></p>
-        <code>UX Pilot</code> • <code>Claude</code> • <code>Gemini</code> • <code>Copilot</code>
-      </td>
-    </tr>
-  </table>
+  <p><b>✨ Core UI & Experience</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Figma-FFF?style=flat-square&logo=figma&logoColor=D4AF37" alt="Figma">🏼
+    <img src="https://img.shields.io/badge/Uizard-FFF?style=flat-square&logo=uizard&logoColor=D4AF37" alt="Uizard">🏼
+    <img src="https://img.shields.io/badge/Wix-FFF?style=flat-square&logo=wix&logoColor=D4AF37" alt="Wix">🏼
+    <img src="https://img.shields.io/badge/Canva-FFF?style=flat-square&logo=canva&logoColor=D4AF37" alt="Canva">
+  </p>
+
+  <p><b>🎨 Adobe Creative Suite</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Photoshop-FFF?style=flat-square&logo=adobephotoshop&logoColor=D4AF37" alt="Photoshop">🏼
+    <img src="https://img.shields.io/badge/Illustrator-FFF?style=flat-square&logo=adobeillustrator&logoColor=D4AF37" alt="Illustrator">🏼
+    <img src="https://img.shields.io/badge/Firefly-FFF?style=flat-square&logo=adobe&logoColor=D4AF37" alt="Firefly">🏼
+    <img src="https://img.shields.io/badge/Express-FFF?style=flat-square&logo=adobe&logoColor=D4AF37" alt="Express">
+  </p>
+
+  <p><b>🧠 Systems & AI Copilots</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/UX_Pilot-FFF?style=flat-square&logo=quirky&logoColor=D4AF37" alt="UX Pilot">🏼
+    <img src="https://img.shields.io/badge/Claude-FFF?style=flat-square&logo=anthropic&logoColor=D4AF37" alt="Claude">🏼
+    <img src="https://img.shields.io/badge/Gemini-FFF?style=flat-square&logo=googlegemini&logoColor=D4AF37" alt="Gemini">🏼
+    <img src="https://img.shields.io/badge/Copilot-FFF?style=flat-square&logo=githubcopilot&logoColor=D4AF37" alt="Copilot">
+  </p>
 
   <br>
 
