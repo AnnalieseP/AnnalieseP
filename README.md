@@ -2,10 +2,9 @@
 
   <!-- Luxury Animated Gold Header -->
   <h1>Hi there, I'm Anna 👋</h1>
+  
   <p align="left">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=800&color=D4AF37&background=FFFFFF00&vCenter=true&width=500&lines=UX%2FUI+%26+Visual+Designer;✨+Dabbling+in+Code;🎮+Mobile+Gaming+Creator" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=800&color=D4AF37&width=500&lines=UX%2FUI+%26+Visual+Designer;%E2%9C%A8+Dabbling+in+Code;%F0%9F%8E%AE+Mobile+Gaming+Creator" alt="Typing SVG" />
   </p>
 
   <p>
@@ -26,14 +25,14 @@
 
   <table>
     <tr>
-      <td valign="top" width="50%" style="border-color: #E5D3B3;">
+      <td valign="top" width="50%">
         <p><b>✨ Core UI & Experience</b></p>
         <code>Figma</code> • <code>Uizard</code> • <code>Wix</code> • <code>Canva</code>
         <br><br>
         <p><b>🎨 Adobe Creative Suite</b></p>
         <code>Photoshop</code> • <code>Illustrator</code> • <code>Firefly</code> • <code>Express</code>
       </td>
-      <td valign="top" width="50%" style="border-color: #E5D3B3;">
+      <td valign="top" width="50%">
         <p><b>🧠 Systems & AI Copilots</b></p>
         <code>UX Pilot</code> • <code>Claude</code> • <code>Gemini</code> • <code>GitHub Copilot</code>
       </td>
