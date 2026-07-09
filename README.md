@@ -28,13 +28,13 @@
       <td valign="top" width="50%">
         <p><b>✨ Core UI & Experience</b></p>
         <code>Figma</code> • <code>Uizard</code> • <code>Wix</code> • <code>Canva</code>
-        <br><br>
+        <br><br> • <code>Github</code>
         <p><b>🎨 Adobe Creative Suite</b></p>
         <code>Photoshop</code> • <code>Illustrator</code> • <code>Firefly</code> • <code>Express</code>
       </td>
       <td valign="top" width="50%">
         <p><b>🧠 Systems & AI Copilots</b></p>
-        <code>UX Pilot</code> • <code>Claude</code> • <code>Gemini</code> • <code>GitHub Copilot</code>
+        <code>UX Pilot</code> • <code>Claude</code> • <code>Gemini</code> • <code>Copilot</code>
       </td>
     </tr>
   </table>
