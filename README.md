@@ -28,7 +28,7 @@
       <td valign="top" width="50%">
         <p><b>✨ Core UI & Experience</b></p>
         <code>Figma</code> • <code>Uizard</code> • <code>Wix</code> • <code>Canva</code>
-        <br><br> • <code>Github</code>
+        <br><br> 
         <p><b>🎨 Adobe Creative Suite</b></p>
         <code>Photoshop</code> • <code>Illustrator</code> • <code>Firefly</code> • <code>Express</code>
       </td>
