@@ -1,7 +1,7 @@
 <div align="left">
 
   <!-- Luxury Animated Gold Header -->
-  <h1>Hi there, I'm Anna 👋</h1>
+  <h1>Hi, I'm Anna ✨</h1>
   
   <p align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=800&color=D4AF37&width=500&lines=UX%2FUI+%26+Visual+Designer;%E2%9C%A8+Dabbling+in+Code;%F0%9F%8E%AE+Mobile+Gaming+Creator" alt="Typing SVG" />
