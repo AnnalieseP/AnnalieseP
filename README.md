@@ -21,7 +21,7 @@
   <br>
 
   <!-- Modern Square Icon Skill Grid (Non-Clickable) -->
-  <h3>⚡ DESIGN & AI TOOLKIT</h3>
+  <h3>DESIGN & AI TOOLKIT</h3>
 
   <p><b>✨ Core UI & Experience</b></p>
   <p>
